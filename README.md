@@ -12,6 +12,24 @@ This summer, I'm taking the opportunity to freshen up my GitHub profile, build e
 
 ---
 
+### 📚✨ Courses I've Taken So Far
+#### 🎓 First Semester
+
+- **DAPE1300 Discrete Mathematics** – 10 credits – individual school exam  
+- **DAPE1400 Programming** – 10 credits – individual school exam  
+- **DAPE1300 Discrete Mathematics** – 5 credits – individual home exam  
+- **DATA1200 Inclusive Web Design** – 5 credits – group home exam  
+
+
+#### 🎓 Second Semester
+
+- **DAFE1000 Mathematics 1000** – 10 credits – individual school exam  
+- **DATA1500 Databases** – 10 credits – individual school exam  
+- **ATA1700 Web Programming** – 10 credits – individual school exam  
+
+
+---
+
 ### 🧰 Technologies I've Worked With / Am Learning
 
 <p align="left">
