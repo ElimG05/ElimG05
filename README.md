@@ -25,7 +25,7 @@ This summer, I'm taking the opportunity to freshen up my GitHub profile, build e
 
 - **DAFE1000 Mathematics 1000** – 10 credits – individual school exam  
 - **DATA1500 Databases** – 10 credits – individual school exam  
-- **ATA1700 Web Programming** – 10 credits – individual school exam  
+- **DATA1700 Web Programming** – 10 credits – individual school exam  
 
 
 ---
